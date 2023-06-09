@@ -10,7 +10,7 @@ CRUD en JS
 
 [Visita el proyecto](https://citas-consulta.netlify.app/)
 
-![](public/img/Portada-Clinica.jpg)
+![](css/Portada-Clinica.jpg)
 
 
 ## Lenguajes
